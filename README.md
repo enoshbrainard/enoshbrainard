@@ -41,7 +41,7 @@
 
 ## 🔹 GitHub Stats  
 
-![Enosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=enoshbrainard&show_icons=true&theme=tokyonight)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enoshbrainard&layout=compact&theme=tokyonight)  
 
 ---
